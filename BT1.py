@@ -66,3 +66,4 @@ for i in range(cr):
         print("*",end='')
     print()
 #B12
+print("vbdbrr")
