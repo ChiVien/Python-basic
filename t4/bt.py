@@ -1,4 +1,9 @@
 """
+Cao Dương Chí Viễn 
+13THC
+1906020140
+"""
+"""
 BT1: Viết chương trình thay thế tất cả các ký tự giống ký tự đầu tiên của một Chuỗi thành $.
 """
 # def thaydoi():
@@ -25,10 +30,10 @@ BT2: Viết chương trình để xóa bỏ ký tự thứ m trong chuỗi khôn
 """
 BT3: Viết chương trình để xóa bỏ các ký tự có chỉ số là số lẻ trong một chuỗi.
 """
-def xoakitule():
-    a=input('nhap chuoi: ')
-    return a[::2]
-print(f'xuat chuoi: {xoakitule()}')
+# def xoakitule():
+#     a=input('nhap chuoi: ')
+#     return a[::2]
+# print(f'xuat chuoi: {xoakitule()}')
 """
 BT4: Viết chương trình sinh ra một chuỗi từ 2 ký tự đầu và 2 ký tự cuối trong chuỗi được nhập vào, nếu độ dài chuỗi nhỏ hơn 2 thì in ra chuỗi rỗng.
 """
