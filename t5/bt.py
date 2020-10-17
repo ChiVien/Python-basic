@@ -1,4 +1,10 @@
 """
+bài tập về nhà 
+tên: Cao Dương Chí Viễn 
+MSSV: 1906020140
+Lớp: 13THC
+"""
+"""
 BT1/a
 """
 # def tinhtong(n):
@@ -85,3 +91,4 @@ import math
 """
 BT2
 """
+
