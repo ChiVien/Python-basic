@@ -115,3 +115,4 @@ BT10: De quy dem so luong chu so le
 #         return 0+count_odd(n,i+1)
 # n=input("Nhap so can kiem tra: ")
 # print(count_odd(n,i))    
+
