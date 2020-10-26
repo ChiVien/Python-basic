@@ -17,8 +17,8 @@ Gợi ý: dùng hàm input yêu cầu người dùng nhập giá trị
 - Sau đó lấy 2 giá trị nhân nhau cho ra kết quả giá tiền của cuộc gọi điện thoại trên.
 '''
 def tinh_tien_dt(str):
-    new_str1=a.split(';')
-    tg=new_str1[1].split(':')
+    b=a.split(';')
+    tg=b[1].split(':')
     tongtg=(float(tg[0])*60+float(tg[1])+round(float(tg[2])/60))
     tongtien=tongtg*2500
     return tongtien
